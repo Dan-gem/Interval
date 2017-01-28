@@ -17,6 +17,7 @@ public class Interval {
                 System.out.println(s);
             }
         }
+
         
 //        if (p > 100) { // 2-ый способ
 //            System.out.println("Число не попадает в диапазон от 0 до 100, введите число еще раз: ");
